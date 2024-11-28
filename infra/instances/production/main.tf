@@ -23,7 +23,7 @@ provider "aws" {
 }
 
 variable "production_public_key" {
-  description = "Production environment public key value"
+  description = "Production environment public ashok key value"
   type        = string
 }
 
